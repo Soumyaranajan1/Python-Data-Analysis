@@ -88,8 +88,7 @@ For any inquiries or collaboration opportunities, feel free to reach out:
 
 📧 **Email**: your.email@example.com  
 🔗 **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)  
-🐙 **GitHub**: [Your GitHub](https://github.com/yourusername)  
+🐙 **GitHub**: https://github.com/Soumyaranajan1 
 
----
 **⭐ Don’t forget to give this repo a star if you found it useful! ⭐**
 
