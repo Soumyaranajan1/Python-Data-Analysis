@@ -77,12 +77,6 @@ No need to install Jupyter Notebook, as we will use Google Colab. You only need 
 - Modify datasets or methods based on business needs.
 - Use visualizations to support strategic decision-making.
 
-## 🤝 Contributing
-Contributions are welcome! If you’d like to add features, improve analysis, or suggest changes, feel free to submit an issue or pull request.
-
-## 📄 License
-This project is licensed under the **MIT License**.
-
 ## 📞 Contact
 For any inquiries or collaboration opportunities, feel free to reach out:
 
