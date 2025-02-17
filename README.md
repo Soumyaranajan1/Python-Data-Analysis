@@ -86,8 +86,8 @@ This project is licensed under the **MIT License**.
 ## 📞 Contact
 For any inquiries or collaboration opportunities, feel free to reach out:
 
-📧 **Email**: your.email@example.com  
-🔗 **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)  
+📧 **Email**: spaikaray24@gmail.com
+🔗 **LinkedIn**: https://www.linkedin.com/in/soumyaranjan-paikray/ 
 🐙 **GitHub**: https://github.com/Soumyaranajan1 
 
 **⭐ Don’t forget to give this repo a star if you found it useful! ⭐**
