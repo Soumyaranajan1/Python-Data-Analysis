@@ -1,5 +1,6 @@
 # Python-Data-Analysis
 # 📊 Sales Analysis Project
+![a-cover-page-for-a-python-advanced-data-_NXcTSTvvTPqXkwnP-JbaUg_7sG5rI_8T9KayMNnU4Jr5g](https://github.com/user-attachments/assets/bc78fcf8-6b6f-4f4b-9ab2-933ef95a7e8c)
 
 ## 📌 Overview
 This project performs an in-depth sales analysis using Python and Google Colab. The goal is to extract valuable insights from sales data, identify trends, and optimize business strategies using data-driven decision-making.
